@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+*.pem
+*.env
+node_modules/
+__pycache__/
+*.pyc
+*.zip
+*.tar.gz
+*.tfstate
+*.tfstate.backup
+.terraform/
+.idea/
+.vscode/
+
