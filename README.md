@@ -118,6 +118,7 @@ Please feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/
 
 ## 📂 Folder Structure
 
+
 hybrid-cloud-cyber-roadmap/
 ├── 00-weekly-guide/        # Step-by-step week-by-week plans
 ├── 01-tools/               # Setup and usage of cybersecurity tools
